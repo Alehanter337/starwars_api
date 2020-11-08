@@ -1,0 +1,41 @@
+html {
+    background-image: url("back.jpg");
+}
+
+.block_planet{
+    background-color: black;
+    opacity: 0.85;
+    border: 5px outset white;
+    margin: 10px 10px;
+    padding: 10px 20px;
+    display: inline-table;
+    justify-content: flex-start;
+    width: 600px;
+    height: 450px;
+
+}
+
+.planets{
+    padding-top: 1em;
+    margin: 0 auto;
+    width: 1600px;
+    font-family: Arial;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+
+
+.name{
+    font-color: white;
+    font-size: 50px;
+}
+
+a {
+    color: gray;
+}
+
+.title{
+    font-size: 70px;
+
+}
